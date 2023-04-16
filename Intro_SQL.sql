@@ -1,3 +1,5 @@
+-- USE lab-intro-to-mysql
+
 CREATE DATABASE Dealership_Cars;
 
 USE Dealership_Cars;
